@@ -11,7 +11,7 @@ This project was developed as part of a Portfolio of Evidence (POE) to demonstra
 ## 🔐 User Authentication
   - User registration with:<br>
     - Username validation (must include _ and be ≤ 5 characters)<br>
-    Secure password validation (minimum 8 characters, uppercase, number, special character)<br>
+    - Secure password validation (minimum 8 characters, uppercase, number, special character)<br>
   - Login system that verifies credentials<br>
   - Personalized welcome message after successful login<br>
   

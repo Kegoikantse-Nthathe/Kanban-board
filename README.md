@@ -55,13 +55,13 @@ This project was developed as part of a Portfolio of Evidence (POE) to demonstra
 
 ## 🧪 Testing
 - The system includes unit tests to validate:<br><br>
-- Username formatting<br>
-- Password complexity rules<br>
-- Login success and failure cases<br>
-- Task description validation<br>
-- Task ID generation<br>
-- Array population and task operations<br>
-- Total duration calculations<br>
+  - Username formatting<br>
+  - Password complexity rules<br>
+  - Login success and failure cases<br>
+  - Task description validation<br>
+  - Task ID generation<br>
+  - Array population and task operations<br>
+  - Total duration calculations<br>
 
 ## 📚 Key Concepts Demonstrated
 - Object-Oriented Programming (OOP)<br>

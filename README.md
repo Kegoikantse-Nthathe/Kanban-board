@@ -76,8 +76,8 @@ This project was developed as part of a Portfolio of Evidence (POE) to demonstra
 
 - To run the project correctly, follow these steps:
   - Open NetBeans IDE
-  - Go to File(Registratiion) → Open Project (src)
-  - Select the Registration project folder
+  - Go to File(Registration) → Open Project (src)
+  - Select the "Registration1" project folder
   - Click Open Project
 
 ## 🎯 Learning Outcome

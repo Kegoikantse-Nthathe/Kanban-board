@@ -72,6 +72,17 @@ This project was developed as part of a Portfolio of Evidence (POE) to demonstra
 - Modular programming<br>
 - Unit testing and test-driven development<br>
 
+## ▶️ How to Run This Project
+
+- 💻 Option 1: Run in NetBeans (Recommended for Developers)<br>
+
+  - Open NetBeans IDE
+  - Click File → Open Project
+  - Select the project folder
+  - Wait for NetBeans to load dependencies
+  - Right-click the project in the Projects tab
+  - Click Run
+
 ## 🎯 Learning Outcome
 This project demonstrates how a simple real-world workflow (Kanban task tracking) can be implemented using core programming principles. It reinforces building structured, testable, and maintainable Java applications.
 
